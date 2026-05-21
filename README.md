@@ -1,4 +1,4 @@
-# DSA & C++ Grind
+# DSA & C++
 
 > Documenting my journey from basics. Every problem solved, every concept understood is pushed here.
 
