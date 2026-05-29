@@ -28,3 +28,5 @@ int main() {
         cout << bits[i];
     }
 }
+
+/* fun qiestion, worked around this for a while, enjoyed */
